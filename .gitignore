@@ -1,0 +1,22 @@
+# Secrets
+.env
+API_KEYS.py
+
+# Runtime state (local only)
+live/state.json
+live/paper_state.json
+live/paper_trades.csv
+live/engine.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Data (large CSVs)
+data/
+
+# OS
+.DS_Store

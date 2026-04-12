@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "live/web",
+  "github": {
+    "silent": true
+  }
+}
