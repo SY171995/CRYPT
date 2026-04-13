@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-13T12:32:56.980378+00:00",
+  "updated_at": "2026-04-13T18:19:53.935767+00:00",
   "cycle": 6,
   "mode": "paper",
   "portfolio": {
     "total_capital": 10000.0,
     "slot_capital": 625.0,
     "n_slots": 16,
-    "open_slots": 0,
-    "allocated_usd": 0.0,
-    "avg_pnl_pct": 0.0
+    "open_slots": 3,
+    "allocated_usd": 1875.0,
+    "avg_pnl_pct": -0.22
   },
   "slots": [
     {
@@ -19,7 +19,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 72172.208366,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -32,7 +32,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 2225.381506,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -45,8 +45,8 @@
       "position": -1,
       "entry_price": 1.324944,
       "entry_time": "2026-04-13T02:51:19.483912+00:00",
-      "current_price": null,
-      "pnl_pct": null,
+      "current_price": 1.336986,
+      "pnl_pct": -0.901,
       "allocation_usd": 625.0,
       "stop_order_id": null
     },
@@ -58,8 +58,8 @@
       "position": -1,
       "entry_price": 0.091053,
       "entry_time": "2026-04-13T02:51:19.667795+00:00",
-      "current_price": null,
-      "pnl_pct": null,
+      "current_price": 0.091694,
+      "pnl_pct": -0.699,
       "allocation_usd": 625.0,
       "stop_order_id": null
     },
@@ -71,7 +71,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 72172.208366,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -84,7 +84,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 2225.381506,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -97,7 +97,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 1.336986,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -110,7 +110,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 0.091694,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -123,7 +123,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 72172.208366,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -136,7 +136,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 2225.381506,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -149,7 +149,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 1.336986,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -162,7 +162,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 0.091694,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -175,8 +175,8 @@
       "position": 1,
       "entry_price": 71500.075622,
       "entry_time": "2026-04-12T09:50:12.036641+00:00",
-      "current_price": null,
-      "pnl_pct": null,
+      "current_price": 72172.208366,
+      "pnl_pct": 0.94,
       "allocation_usd": 625.0,
       "stop_order_id": null
     },
@@ -184,13 +184,13 @@
       "slot": "EWMAC_ETHUSD",
       "strategy": "EWMAC",
       "symbol": "ETHUSD",
-      "direction": "long",
-      "position": 1,
-      "entry_price": 2212.578484,
-      "entry_time": "2026-04-12T09:50:12.048222+00:00",
-      "current_price": null,
+      "direction": "flat",
+      "position": 0,
+      "entry_price": null,
+      "entry_time": null,
+      "current_price": 2225.381506,
       "pnl_pct": null,
-      "allocation_usd": 625.0,
+      "allocation_usd": 0,
       "stop_order_id": null
     },
     {
@@ -201,7 +201,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 1.336986,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
@@ -214,7 +214,7 @@
       "position": 0,
       "entry_price": null,
       "entry_time": null,
-      "current_price": null,
+      "current_price": 0.091694,
       "pnl_pct": null,
       "allocation_usd": 0,
       "stop_order_id": null
